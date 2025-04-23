@@ -1,24 +1,20 @@
 # CMPINF-Final-Group8
 This is the final project repo for CMPINF group 8
-Group members: Hongyu Liu, Suhyun Kim, Xiang Li
 
-## Final Rubric: Neighborhood Quality of Life Potential
+# Group members:
+- Hongyu Liu(hol73@pitt.edu)
+- Suhyun Kim(suhyun.kim@pitt.edu)
+- Xiang Li(xil458@pitt.edu)
 
-### The relationship with Aggregated Income Housing:
-One of the most fundamental components of the Neighborhood Quality of Life Potential is economic vitality. In this project, we capture this dimension using aggregate household income — the total income earned by all households in a neighborhood over the past 12 months, adjusted to 2015 dollars to account for inflation.
+# Individual Notebooks
+- Hongyu analyzes the `Aggregated Income Housing`, based on the dataset `https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data` from WPRDC.
+- Suhyun analyzes the `Number of Traffic Signs`, based on the dataset `https://data.wprdc.org/dataset/city-traffic-signs` from WPRDC.
+- Xiang analyzes the `Incident Level`, based on the dataset `https://data.wprdc.org/dataset/uniform-crime-reporting-data` from WPRDC.
 
-Aggregate income offers a holistic view of a neighborhood’s financial landscape. Rather than focusing on individual wealth or a single household’s income, this metric reflects both the population size and economic strength of the area. A high total income implies a large number of working residents, well-paying jobs, and stronger local purchasing power — all of which contribute to more vibrant and resilient communities.
+# Repository Overview
+A data-driven analysis of Pittsburgh neighborhoods using crime incidents, traffic infrastructure, and household income to determine the best place to live based on a combined metric score.
 
-Economically strong neighborhoods are often equipped with:
-
-- Higher quality schools, parks, and public facilities,
-
-- Well-maintained streets and services,
-
-- A robust local business environment with restaurants, shops, and job opportunities,
-
-Greater housing stability and long-term investment potential.
-
-Compared to median income, which reflects only the income of the "middle" household, aggregate income gives us insight into the total economic capacity of the neighborhood — how much wealth flows through it and what that means for residents' daily lives.
-
-In summary, aggregate household income serves as a critical proxy for the resources a community has to support well-being, infrastructure, and opportunity — all essential for a high quality of life.
+- Conclusion: consists of the final combined notebook and its related files.
+- xiang - Xiang's notebook and related files.
+- hongyu_aggregated_income: Hongyu's notebook and related files.
+- kim_city_traffic_signs: Suhyun Kim's notebook and related files.
